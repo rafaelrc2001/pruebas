@@ -1,0 +1,8 @@
+.env.local
+.env.develop
+.env.staging
+
+node_modules/
+
+
+
